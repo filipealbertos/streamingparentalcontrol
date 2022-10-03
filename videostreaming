@@ -1,4 +1,5 @@
 #Be nice to your young ones
+#AMAZONPRIMEVIDEO
 0.0.0.0 aiv-cdn.net
 0.0.0.0 aiv-delivery.net
 0.0.0.0 amazonvideo.com
@@ -22,7 +23,7 @@
 0.0.0.0 m.media-amazon.com
 0.0.0.0 d184dfn36gombl.cloudfront.net
 0.0.0.0 ab992t7ewg8z.eu.api.amazonvideo.com
-# Be nice to your younger ones
+# DISNEY+
 0.0.0.0	disneyplus.com
 0.0.0.0	bamgrid.com
 0.0.0.0 bam.nr-data.net
